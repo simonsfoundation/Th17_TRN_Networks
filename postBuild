@@ -1,0 +1,10 @@
+#!/bin/bash
+
+pip install --upgrade ipywidgets
+pip2 install ipywidgets
+pip2 install traitlets
+pip2 install python-igraph
+pip2 install pycrypto
+pip2 install -e git://github.com/simonsfoundation/jp_svg_canvas#egg=jp_svg_canvas
+pip2 install -e git://github.com/simonsfoundation/jp_gene_viz#egg=jp_gene_viz
+pip2 install scipy
