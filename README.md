@@ -2,7 +2,11 @@
 
 # Th17_TRN_Networks
 
-Data and notebooks for "Leveraging chromatin accessibility for transcriptional regulatory inference in Th17 Cells" by Miraldi et al.
+This repository contains interactive visualization of transcriptional regulatory networks and gene expression data from:
+
+[Miraldi et al., Leveraging chromatin accessibility for transcriptional regulatory network inference in T Helper 17 Cells](https://genome.cshlp.org/content/early/2019/02/19/gr.238253.118).
+
+
 
 The repository has been designed to run in the cloud based Binder service.
 Click the binder link above to launch a binder container running the notebooks
